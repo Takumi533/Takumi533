@@ -1,3 +1,4 @@
+##### If you'd prefer English, please check out the English version below.
 # 👋 こんにちは
 
 ## 自己紹介
@@ -27,6 +28,8 @@ AIの仕組みに興味を持ち、自然言語で会話できるAIの開発に�
 ---
 ⭐ **AI技術を学び、プログラミングを通して新しい価値を生み出せるエンジニアを目指しています。**
 
+
+### 🌍 For English Readers
 
 # 👋 Hi, I'm Takumi!
 
